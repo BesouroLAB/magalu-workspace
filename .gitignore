@@ -1,14 +1,17 @@
-# Pastas de mídia/entrega (vídeo, áudio, roteiros, planilhas de dados)
-0-planilha-mestre/
+# Pastas de mídia/entrega (vídeo, áudio, roteiros)
 4-audios/
+!4-audios/conferencia-audios-drika.xlsx
 6-roteiros-drika_15-09-2026/
 7-roteiros-rampim_15-09-2026/
 8-drika-prioridade_23-09-2026/
 drive-download-20260915T142828Z-1-001/
 
-# Planilhas e mídia em qualquer pasta
-*.xlsx
-*.xlsm
+# Planilha mestre com mídia embutida (73MB) e seu backup
+0-planilha-mestre/Web_Vídeo.xlsx
+0-planilha-mestre/Web_Vídeo.BACKUP.xlsx
+
+# Arquivos temporários do Excel e mídia solta
+~$*.xlsx
 *.bak
 *.mp3
 *.mp4
