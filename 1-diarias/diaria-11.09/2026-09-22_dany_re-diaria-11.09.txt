@@ -1,0 +1,80 @@
+Diária 11.09 — retorno da Dany (colado pelo Tiago no chat em 22/09/2026)
+
+Aprovados:
+SKU	Produto
+240989200	Perfume Adolfo Dominguez Água Fresca Pomelo Eau de Toilette 120ml
+240648500	Kit de Maquiagem Eudora Niina Secrets Celebration 2 Itens
+043184800	Just Dance 2020 para PS4
+227019300	Pelúcia Sansão Turma da Mônica 43cm
+238162200	Boneca Baby Alive Harper Hugs Bebê Shampoo
+238424500	Travesseiro Castor Sleep
+238516300	Boneca Club Girls Banho com Roupão Fralda
+221664600	Sabonete Líquido Lux Botanicals Buquê de Jasmim 200ml Refil
+240180200	Playset Patrulha Canina Fire Rescue Estação
+240404500	Torradeira de Brinquedo Happy Family Mini
+232150000	Cortina Lartex Voil Café Wound 230x270cm
+241244000	Carrinho Hot Wheels XL Mattel
+240376000	Perfume Adolfo Dominguez Iris Vainilla Feminino Eau de Parfum 120ml
+237870200	Vinho Tinto Seco Concha y Toro Casillero del
+226546100	Vinho Tinto Seco Trapiche Roble Malbec 750ml
+238840400	Vinho Tinto Seco Carmen Insigne Cabernet Sauvignon Chile 750ml
+043189000	Jogo Transformers Campos de Batalha para PS4
+240812700	Ômega 3 Nestlé Nutren EPA & DHA 60 Cápsulas
+240215400	Jogo Imagem e Ação: Maluco Tabuleiro Grow
+086077500	Faca Tramontina Inox
+230560800	Cortina Lartex Voil Cinza Claro Antun 230x270cm
+235666400	Sofá 3 Lugares Suede Marselha Linoforte
+235720900	Tampa de Panela de Vidro e Inox Multiflon 14cm
+235721000	Tampa de Panela de Vidro e Inox Multiflon 16cm
+235721200	Tampa de Panela de Vidro e Inox Multiflon 20cm
+236836700	Frigideira Wok Antiaderente Multiflon de Alumínio Color Rosa 24cm
+238272600	Prato Raso Marrom de Sobremesa Redondo 20cm Hauskraft FBBU002/MR
+238273200	Copo Hauskraft FBBU Bege 300ml
+238276300	Pote de Vidro Hauskraf com Tampa Redondo 1L Max
+238823200	Jogo de Panelas Tramontina de Alumínio Azul Mediterrâneo 4 Peças Tunis
+238820100	Jogo de Panelas Tramontina de Alumínio Rosa Trufado 4 Peças Tunis
+238824500	Panela Tramontina Antiaderente de Alumínio Rosa Trufado 16cm 1,35L Tunis
+238821000	Panela Tramontina Antiaderente de Alumínio Rosa Trufado 18cm 2L Tunis
+240000300	Kit Mesa de Cabeceira Moderno Éden Caemmun
+240001100	Kit Mesa de Cabeceira Moderno Éden Caemmun
+240001000	Cômoda Multiuso 3 Gavetas Caemmun Éden
+240008900	Painel para TV até 65” Caemmun Mondrian
+240132500	Cômoda Infantil 3 Gavetas Moveis Peroba Magia
+240133500	Guarda-roupa 2 Gavetas 3 Portas Moveis Peroba Harmonia
+240134300	Guarda-roupa 2 Gavetas 3 Portas Moveis Peroba Harmonia
+240134500	Berço Mini Cama Branco Moveis Peroba Anjinho
+240136800	Frigideira Antiaderente Multiflon de Alumínio Gourmet Vermelho 16cm e 20cm
+
+Em alteração:
+
+SKU	Produto	Alteração
+241107700	Carregador Portátil/Power Bank ELG PB102BK 10.200mAh	0:03 - A IA colocou a marca do produto no lado esquerdo.
+240813600	Cápsula de Café Espresso Nestlé 100% Árabica Nescafé Dolce Gusto Kopenhagen 10 Cápsulas	0:09 - Parece que a embalagem tá flutuando
+226499400	Espumante Rosé Brut Codorníu Clasico	Cena de abertura e fechamento – A embalagem da garrafa aparece diferente entre as duas cenas, gerando uma inconsistência na apresentação do produto.
+235720800	Tampa de Panela de Vidro e Inox Multiflon 10cm	0:04 - Ajustar transição abrupta.
+236836600	Frigideira Wok Antiaderente Multiflon de Alumínio Color Amarelo 24cm	0:02 - Na hora da transição, aparecem duas linhas verticais nas laterais esquerda e direita.
+0:09 - A IA acrescentou um texto dentro da frigideira
+0:15 - A IA acrescentou um texto dentro da frigideira
+236836900	Frigideira Wok Antiaderente Multiflon de Alumínio Color Rosa 28cm	0:11 - A IA acrescentou um texto dentro da frigideira
+236837000	Frigideira Wok Antiaderente Multiflon de Alumínio Color Azul 24cm	0:02 - Aparece uma linha preta vertical no lado esquerdo.
+237902600	Kit Refeição Infantil Buba Zoo Leão 3 Peças Laranja	0:07 - Aparece uma caixa e um babador que não fazem parte do jogo. Pode gerar confusão.
+0:12 - Aparece a caixa novamente.
+238133700	Bowl de Silicone Verde Buba 15635 350ml	Foi utilizada uma cena de uma pessoa despejando leite no bowl de uma altura excessiva, deixando a ação pouco natural e sem coerência com uma situação real de uso do produto. Substituir a cena por uma demonstração mais natural e realista.
+Última cena – O mesmo trecho foi utilizado duas vezes de forma cortada, deixando o encerramento repetitivo e, além disso, o produto não é apresentado de forma adequada. Substituir a cena por uma apresentação mais clara do produto, evitando a repetição do mesmo trecho.
+238131600	Bowl de Silicone Azul Buba 15633 350ml	0:11 - O bowl é para bebês a partir de 06 meses, mas mostra uma pessoa adulta comendo nele.
+238829000	Gaveteiro para Quarto 2 Gavetas Multivisão Decore FLOW-UV-PR	O principal diferencial deste produto é que ele é 2 em 1, tem pés removíveis e pode ser usado tanto no chão, quanto suspenso. Mas só é mostrado suspenso.
+0:19 - A forma como as opções de cores do guarda-roupa estão sendo apresentadas ficou visualmente ruim e não permite que o cliente visualize com clareza as cores disponíveis.
+Faltou régua de medidas
+238855900	Guarda-roupa Casal 4 Gavetas 6 Portas Caemmun Apollo	00:20 – A forma como as opções de cores do guarda-roupa estão sendo apresentadas ficou visualmente ruim e não permite que o cliente visualize com clareza as cores disponíveis
+238946100	Cômoda com Espelho 6 Gavetas 1 Porta Móveis Lanza Atenas	Faltou foto da parte interna.
+0:17 - A forma como as opções de cores do guarda-roupa estão sendo apresentadas ficou visualmente ruim e não permite que o cliente visualize com clareza as cores disponíveis
+238967500	Gabinete para Banheiro Aéreo com Cuba e Espelheira 4 Portas Móveis Bechara Londres	Faltou a régua de medida da espelheira.
+Não mostrou a parte de dentro do gabinete.
+238996900	Mesa Dobrável Multiuso 240cm Otello DOB-BR3	0:06 - As linhas de profundidade e altura não foram colocadas. Do jeito que está, não dá pra saber qual é qual.
+238996500	Mesa Dobrável Multiuso 1,80m Otello DOB-BR2	0:07 - 180cm está posicionado errado. Estão faltando as linhas da altura e profundidade.
+240000500	Cabeceira Casal Caemmun Éden Cacao e Lamina Mel	0:17 - Aqui é mostrado a cabeceira junto das duas mesas de cabeceira. Mas elas não vem junto. Precisa mostrar apenas a cabeceira sozinha neste trecho.
+Seria interessante em outro trecho, onde mostra as mesas de cabeceiras, colocar um TL avisando que não fazem parte da cabeceira.
+240132900	Berço 4 em 1 Branco Moveis Peroba Confort Multi	As medidas do berço não foram apresentadas, conforme indicado no roteiro.
+240133000	Cômoda de Bebê 3 Gavetas Moveis Peroba Harmonia com Vidro	Não mostrou a parte interna e tbm não mostrou as duas opções de rodapé. Só aparece 01
+240133400	Berço Branco Moveis Peroba Carinho	00:16 – Na cena em que são apresentadas as opções de cores, os berços aparecem com tamanhos diferentes, dando a impressão de que o modelo de baixo é maior.
+00:12 – A cena ficou pouco natural e sem contexto de uso: a mulher passa a cabeça pela madeira do berço, sem a presença de um bebê ou uma ação que justifique esse movimento. Substituir a cena por uma situação de uso mais realista e coerente com o produto.

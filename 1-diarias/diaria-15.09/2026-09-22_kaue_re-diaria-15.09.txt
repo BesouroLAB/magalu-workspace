@@ -1,0 +1,61 @@
+Diária 15.09 — retorno do Kauê (colado pelo Tiago no chat em 22/09/2026)
+
+SKU	Produto	Alteração
+217689200	Jogo de Facas Tramontina Plenus 3 Peças	O jogo de facas aparece totalmente diferente do produto anunciado, com alterações nas características e na composição do conjunto. Corrigir as cenas para que as facas apresentadas correspondam fielmente ao modelo original.
+240254800	Boneco Disney Stitch 30cm com Comidinhas	00:05 – Na cena, aparecem acessórios que não acompanham o boneco. A apresentação desses itens pode levar o cliente a entender que eles fazem parte do produto anunciado, gerando uma expectativa incorreta sobre o conteúdo da embalagem.
+240196200	Vodka Orloff Tradicional 6844 1,75L	00:05 – Na cena em que o homem prepara uma batida com a vodka, a IA apresenta uma inconsistência evidente: começam a surgir líquidos pela parte inferior do misturador, deixando a ação artificial e pouco realista. Substituir a cena, garantindo que, ao ambientar o produto com pessoas, as ações sejam coerentes e compatíveis com uma situação real de uso, evitando resultados que evidenciem a geração por IA.
+238945900	Guarda-roupa Casal com Espelho 5 Gavetas 3 Portas de Correr Móveis Lanza Milão	00:05 – O tamanho do guarda-roupa foi alterado na cena, fazendo com que ele pareça menor do que realmente é. Solicito ajustar a proporção para representar corretamente as dimensões do produto anunciado.
+241384500	Forno Elétrico de Bancada Philco Grill 55L com Lâmpada Branco PFE57	Aprovado
+241356600	Cafeteira Cadence Single Up 2 Cafés Preta e Vermelha CAF230	Aprovado
+240121400	Guarda-roupa Casal 4 Gavetas 4 Portas Demobile Laredo	Aprovado
+241386000	Mini Figura Surpresa Copa do Mundo FIFA 2026	Aprovado
+238823300	Jogo de Facas para Churrasco Tramontina Inox com Tábua Plenus 4 Peças	Aprovado
+238933400	Azeite de Oliva Extravirgem Casa Gallo Master Blenders Rossio	Aprovado
+226188200	Tequila Don Julio Prata Blanco	Aprovado
+231645800	Barbie Mini Conjunto Com Pets 26cm	Aprovado
+238624400	Boneca Baby Alive Pequenos Sonhos com Acessórios	Aprovado
+240245600	Boneca Love Bebe Minha Naninha Preferida	Aprovado
+237370400	Licor Amarula Coco Baunilha e Caramelo Vegan	Aprovado
+238152200	Jogo 7 Wonders: 2ª Edição Tabuleiro Galápagos	Aprovado
+240374800	Perfume Banderas The Secret Masculino Eau de Toilette 50ml	Aprovado
+240411100	Boneca Cabelo Loiro Mattel	Aprovado
+240347000	Playset Família Coelho Quarto 20 Peças	Aprovado
+230266300	Boneco Luccas Neto Os Aventureiros Super Foca	Aprovado
+240205900	Boneca Hora de dormir Ana Julia com Acessórios	Aprovado
+238423300	Boneca Love Bebê com Fralda e Chupeta	Aprovado
+235596400	Playset Marvel Spidey and His Amazing Friends	Aprovado
+238545500	Playset Celeiro da Judy Samba Toys 5 Peças	Aprovado
+228812400	Saco de Lixo Verde para Banheiro Embalixo	Aprovado
+230948300	Vinho Tinto Seco Leyda Estate Cabernet Sauvignon Chile 750ml	Aprovado
+238762700	Água Mineral sem Gás 850ml Voss	Aprovado
+226593500	Suporte para Fogão de Indução Inox 13cm	Aprovado
+236786600	Pneu Aro 19” 235/50R19 Pirelli 99H S-I Scorpion	Aprovado
+227034100	Antena Digital Interna e Externa 10dB ELG Infinity	Aprovado
+232993500	Jogo de Facas Brinox Inox 2557/400 5 Peças	Aprovado
+225167500	Pneu Aro 18” 235/60R18 Firestone 103V Destination LE	Aprovado
+240140400	Funko Pop Stitch com Boia	Aprovado
+230438100	Boneco Marvel Olympus Venom 24cm Hasbro	Aprovado
+235232200	Sabonete em Barra para o Corpo Protex	Aprovado
+237800400	Vinho Branco Seco Nieto Senetiner Chardonnay	Aprovado
+240375400	Perfume Adolfo Dominguez Ámbar Negro Masculino Eau de Parfum	Aprovado
+232892400	Boneca Baby Alive Foodie Cuties com Acessórios	Aprovado
+240283000	Jogo Dixit Odyssey Galápagos	Aprovado
+240654600	Corretivo Líquido Eudora Niina Secrets Perfect Match Cor 5 10ml	Aprovado
+227040200	Suporte para Monitor Articulado de Mesa	Aprovado
+226499200	Espumante Branco Brut Codorníu Clasico 750ml	Aprovado
+240362400	Vinagre Balsâmico Paganini Aceto Di Modena 500ml	Aprovado
+241252700	Pista Hot Wheels City Praia do Tubarão Mattel	Aprovado
+238150800	Jogo Ticket To Ride Tabuleiro Galápagos	Aprovado
+240089100	Vinho Rosé Seco Cosecha Chile 750ml	Aprovado
+240251700	Ômega 3 FTW PA00071999 DHA e EPA 90 Cápsulas	Aprovado
+230560500	Cortina Lartex Voil Soul Gelo 230x270cm	Aprovado
+226814200	Pelúcia Patrulha Canina Rubble 29cm	Aprovado
+232529500	Colchão Casal Aiam Colchões de Espuma D-33	Aprovado
+234364700	Poltrona Decorativa com Puff Moderno Matrix	Aprovado
+238946200	Cômoda 8 Gavetas Móveis Lanza Paris	Aprovado
+238996400	Mesa Dobrável Multiuso 1,20m Otello DOB-BR1	Aprovado
+240000500	Cabeceira Casal Caemmun Éden Cacao e Lamina Mel	Aprovado
+240133100	Berço Mini Cama Branco e Amêndoa Móveis Peroba Magia	Aprovado
+240135200	Berço Mini Cama Branco Móveis Peroba Magia	Aprovado
+240136700	Frigideira Antiaderente Multiflon de Alumínio Gourmet Vermelho	Aprovado
+240168700	Andador Infantil Infanti Appia Musical	Aprovado

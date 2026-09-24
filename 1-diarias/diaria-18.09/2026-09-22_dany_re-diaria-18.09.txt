@@ -1,0 +1,83 @@
+Diária 18.09 — retorno da Dany (colado pelo Tiago no chat em 22/09/2026)
+
+Aprovados:
+SKU	Produto
+240192500	Porta Sabão com Tampa Dosadora 2,3L Ou Flow
+240798400	Poltrona Decorativa Opala Moderna Nordeste Flex Luiza
+240998500	LEGO City A Van 60500 276 Peças
+241102400	Sofá 3 Lugares Retrátil Reclinável Veludo Berlim SMP
+240793400	Colchão King Umaflex de Espuma 25x193x203cm Siena Visco
+240287500	Jogo de Panelas Tefal Inox Fundo Triplo 4 Peças Ingenio
+241078400	Caixa de Som Vivensis VibeSound V3 Go Bluetooth Portátil 50W RMS
+238982100	LEGO Gato Brincalhão 3 em 1 31163 407 Peças
+086048500	Cafeteira Italiana Alumínio Bialetti
+201439700	Conjunto de Assadeiras 3 Peças Tramontina Cosmos 64310400
+217690600	Conjunto de Panelas Tramontina Cordoba 20799/790
+234637000	Poltrona do Papai Reclinável Moderno 3 Posições Matrix AUDI MX37
+237620000	Jogo de Panelas Brinox de Alumínio Verde 6 Peças
+237620300	Porta-filtro de Café 88 Graus
+226553900	Monitor Gamer LG 27GL650F-B.AWZ 27” LED IPS
+236872800	Jogo de Xícaras de Chá de Porcelana 240ml
+240062700	Sofá 4 Lugares Retrátil Reclinável Bouclé Mediterrâneo Parma Flexforma Estofados
+240087400	Sofá 2 Lugares Suede Spazium Linoforte
+240087800	Sofá 3 Lugares Suede Spazium Linoforte
+
+Em alteração:
+SKU	Produto	Alteração
+240348300	Cavalete de Pintura Infantil 62cm Lulie Kids	0:03 - A ambientação tá desproporcional. Faz o produto aparecer maior do que realmente é.
+238829400	Estante Multiuso 2 Portas 4 Prateleiras Multivisão Urbana	0:09 - Os detalhes da porta estão diferentes
+0:14 - Os detalhes da porta estão diferentes
+240384800	LEGO Diversão no Parquinho com Bluey e Chloe 11201	0:03 - Tá diferente: a casinha, o pássaro, o conjunto de chá, a gangorra e a Bluey.
+241007600	LEGO Speed Champions Carro de Corrida F1 Academy	0:17 - boneca diferente
+240999100	LEGO City Caminhão da Polícia 60481 71 Peças	00:00 a 00:06 - Estabilizar imagem. Parece que a câmera fica tremendo.
+0:19 - Estabilizar imagem. Parece que a câmera fica tremendo.
+240736600	Escrivaninha 1 Gaveta 2 Portas Politorno Móveis Iracema	0:08 - A cor do produto tá diferente. A mesa da escrivaninha tbm tá diferente
+Não mostrou parte interna do produto.
+238830900	Banqueta Alta Preta e Mel Multivisão Urbana	0:07 - Precisa desenhar todas as réguas
+0:09 - Tá com um bug na lateral inferior esquerda do vídeo
+240288000	Cadeirinha para Auto Galzerano Maximus 8012TF até 25kg 2 Posições	0:03 - Tá diferente: os cintos, as laterais da cadeira e a parte debaixo dela.
+124340800	Colchão Casal Castor Mola Pocket	0:07 - Precisa desenhar todas as réguas de medidas
+088043800	Conjunto de Chá Porcelana 6 Peças	Xícaras de chá, mas foram ambientadas como xícaras de café
+155589700	Smartphone Samsung Galaxy Note 20 Ultra 256GB	0:09 - As câmeras tão diferentes
+237850200	Panela Tramontina Inox Fundo Triplo 16cm 1,5L Allegra	0:09 - Panela aparenta estar suja
+234515100	Massinha Play-Doh Mini Sorveteria Divertida	Tem uma pecinha cinza que vai em cima da máquina de sorvete que não é mostrada no vídeo.
+0:06 - a massinha tá com cor diferente.
+0:12 - a massinha tá com cor diferente.
+0:14 - a mesma cena aparece duas vezes seguidas.
+238435600	Painel para TV até 75" Artely Belluno 1 Prateleira	0:09 - A gaveta tá errada. Tá com um buraco no centro.
+0:17 - A gaveta tá errada. Tá com um buraco no centro.
+217696200	Cuscuzeira Tramontina Antiaderente Turim 20268614	0:03 - A peça de inox tá duplicada. Ela aparece dentro da panela e em cima da mesa.
+0:07 - A tampa tá com furinho
+0:20 - O formato do cuscuz é diferente do formato da cuscuzeira.
+080905100	Sapateira Unitária Smart Cromada Arthi 1812	0:03 - A sapateira parece ser maior do que realmente é
+0:08 - Modelo tá diferente
+0:17 - A sapateira parece ser maior do que realmente é
+237360300	Rack para TV até 60” XT Racer Max Air Preto e Branco	0:03- a pronúncia de 'rack' tá errada.
+220544200	Jogo War Tabuleiro O Jogo da Estratégia	0:08 - O formato das pecinhas tá diferente
+238414500	Sofá-cama 3 Lugares Casal Reclinável Veludo Matrix Lavínia	Ele é um sofá cama reclinável. Temos fotos disponíveis no site para mostrar as diferentes posições. No vídeo ele aparece em apenas uma.
+0:15 - A forma como a opção de cores foi colocada não permite que o consumidor visualize direito.
+238432300	Mesa de Centro de MDF Jasmin Artely	Faltou medidas da profundidade
+A maneira como as opções de cores foram colocadas, não permite que o consumidor visualize completamente.
+238436300	Painel para TV até 72" Artely Trama 1 Prateleira	0:06 - A mesma cena aparece duas vezes seguidas. Faltou informações sobre a profundidade.
+0:12 - O tamanho tá desproporcional, parece muito maior do que realmente é.
+238946000	Guarda-roupa Solteiro com Espelho 4 Gavetas 2 Portas de Correr Móveis Lanza Zurique	0:10 - A mesma cena aparece duas vezes seguidas.
+0:12 - Modelo tá diferente
+Faltou mostrar completamente a parte interna
+A forma como as opções de cores foram mostradas não permite a visualização adequada do produto.
+240062500	Sofá 3 Lugares Retrátil Reclinável Bouclé Mediterrâneo Peruggia Flexforma Estofados	0:07 - A parte que abre tá bem maior do que realmente é. Ele é bipartido. Mas no vídeo tá com 03 partes.
+0:21 - O sofá é de 3 lugares, mas menciona 04.
+240062900	Sofá 4 Lugares Retrátil Reclinável Bouclé Mediterrâneo Bergamo Flexforma Estofados	0:19 - Sofá de 4 lugares, mas menciona de 03
+240064700	Rack para TV até 75" 4 Portas DJ Móveis Helo	0:03 - A maneira como fala "rack" tá errada.
+Faltou mostrar compartimento interno.
+Faltou régua de medidas.
+240064100	Painel para TV até 65" DJ Móveis Ben	Faltou régua de medidas.
+Faltou mostrar parte interna.
+240084200	Painel para TV até 70" DJ Móveis Alana	Faltou régua de medidas.
+Faltou mostrar parte interna.
+240087700	Sofá 3 Lugares Retrátil Reclinável Suede Hannover Linoforte	Faltou informar a altura.
+240100700	Sofá-cama Lugares Retrátil Bipartido Reclinável Veludo Matrix Nayla	Faltou régua de medidas.
+Ele é um sofá retrátil, reclinável que vira cama. Mas o sofá aparece em apenas uma posição no vídeo todo.
+240144000	Poltrona Decorativa Moderna Matrix Xangai	Faltou medida da profundidade
+240143300	Poltrona Decorativa com Puff Moderno Matrix Pequim	Faltou régua de medidas
+240154800	Cozinha Compacta Valdemóveis Canastra com Balcão 5 Portas 1 Gaveta	O vídeo todo foi mostrado sem a porta superior esquerda. Dando a entender que o produto não tem ela.
+240169600	Berço Portátil Cosco Kids Cozzy até 18kg Rosa	Faltou informação de largura

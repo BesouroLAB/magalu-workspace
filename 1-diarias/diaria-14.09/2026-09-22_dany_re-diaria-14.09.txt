@@ -1,0 +1,68 @@
+Diária 14.09 — retorno da Dany (colado pelo Tiago no chat em 22/09/2026)
+
+Aprovados:
+SKU	Produto
+241128900	Controle para Xbox sem Fio EP2-40578 Microsoft Pulse Red
+237818300	Fralda Pampers Pants Ajuste Total Tamanho XXG (14-18kg) 120 Unidades
+238291900	Bicicleta Infantil Aro 16" TK3 Track Flip Fire Preta e Amarela com Banco de Mobilete e Rodinhas Freio V-Brake
+238839000	Sofá 2 Lugares Suede Adágio Linoforte
+240647400	Loção Hidratante Corporal Pampers 51929 Infantil 400ml
+240205600	Boneca com Mamadeira e Chupeta
+226773100	Skate Hot Wheels Fun com Kit de Proteção
+227696900	Papel de Parede Infantil Creme Balões Vinílico
+232057100	Chaira Lisa Profissional 12” Tramontina Master
+232102700	Garfo Trinchante Tramontina Aço Inox Plenus 26,1cm
+238254400	Forma para Air Fryer de Silicone Quadrada Antiaderente com Alças Hauskraft
+238271900	Copo Hauskraft FBBU Marrom 300ml
+
+Em alteração:
+SKU	Produto	Alteração
+241125300	Amaciante Comfort Concentrado Edição Especial Bridgerton Segredos 10 1,5L	0:09 - A tampa do amaciante tá maior do que realmente é
+241222000	Bicicleta Elétrica Scooter Aro 10" Lev Onn P1000 1000W	0:08 - A IA adicionou o logo da marca do lado direito.
+0:13 - Tá diferente do modelo original
+241424500	Sabão Líquido Omo Lavagem Perfeita Concentrado 1,8L	0:07 - IA alucinou texto
+0:13 - IA alucinou texto
+241324900	Panela de Pressão Rochedo 4,5L Antiaderente Preto e Cinza Stone Pro Clipso	0:03 - Tá ambientada em fogão de indução, mas ela não pode ir nele.
+0:16 - O botão tá diferente
+0:19 - Tá ambientada em fogão de indução, mas ela não pode ir nele.
+226773000	Skate Barbie Fun com Kit de Proteção	0:03 - Aparecem duas bolsas e duas cartelas de colantes. No kit vem 1 de cada.
+0:05 - Joelheira diferente
+0:07 - Joelheira e cotoveleira diferentes
+0:16 - Joelheira diferente
+226911600	Aspirador de Pó Portátil e Vertical Britânia	0:02 - Tem um cabo saindo da alça do aspirador.
+0:06 - O reservatório do original é meio transparente, dá pra enxergar dentro. No vídeo não tá. Tem um cabo saindo da alça do aspirador.
+0:09 - Tem um cabo saindo da alça do aspirador.
+232056800	Boleador 2,9cm Tramontina Utilitá Branco	0:11 - O cabo está diferente
+235690600	Sofá 2 Lugares Suede Marselha Linoforte	0:13 a 0:24- O sofá o código do sofá é de 2 lugares, mas aparece um com 3 lugares
+
+
+O restante dos vídeos desta diária já foram enviados anteriormente. Segue relação dos status deles:
+
+[B]IAC_225588700_Frigideira Antiaderente Hercules de Alum¡nio.mp4	Aprovado
+[B]IAC_230924900_Hipercal¢rico Max Titanium Sugar Gainers em P¢.mp4	Aprovado
+[B]IAC_232057200_Chaira Lisa Profissional 12" Tramontina Master.mp4	Aprovado
+[B]IAC_232059400_Esp tula para Pizza Inox Tramontina Utilit….mp4	Aprovado
+[B]IAC_232086700_Raspador de LimÆo de Inox Tramontina Utilit .mp4	Aprovado
+[B]IAC_232087500_Colher de Servir Tramontina Ability Preto.mp4	Aprovado
+[B]IAC_232088700_Colher de Servir Tramontina Ability Preto.mp4	Aprovado
+[B]IAC_232097500_Jogo de Colher Tramontina Leme Azul 12 Pe‡as.mp4	Aprovado
+[B]IAC_232098600_Jogo de Colher Tramontina Ipanema Branco 3 Pe‡as.mp4	Aprovado
+[B]IAC_232099100_Jogo de Colher Tramontina Ipanema Azul 12 Pe‡as.mp4	Aprovado
+[B]IAC_232102500_Garfo Trinchante Tramontina A‡o Inox Plenus.mp4	Aprovado
+[B]lof_241125200_amaciante_comfort_bridgerton.mp4	Aprovado
+[C]IAC_227008900_Kit Alimenta‡Æo Infantil 3 Pe‡as Buba Animal Fun Unic¢rnio.mp4	Aprovado
+[C]IAC_231155500_Troninho Infantil Safety 1st Kingdom 3 em 1.mp4	Aprovado
+[C]IAC_231155700_Canguru para Bebˆ Safety 1st Freedom 4 Posi‡äes.mp4	Aprovado
+[C]IAC_232529400_ColchÆo Solteiro Aiam Colchäes de Espuma D-33.mp4	Aprovado
+[C]IAC_236707800_Kit Refei‡Æo Infantil Buba Animal Fun LeÆo.mp4	Aprovado
+IAC 241206500 241206400 Geladeira_B.mp4	Aprovado
+IAC_241384500B.mp4	Aprovado
+Lu_Oferta_240714100_Bebida L ctea UHT Danone_B.mp4	Aprovado
+[B]IAC_230255300_Funko Pop! Animation Dragon Ball Super Gohan N48582.mp4	Não foi feita a alteração solicitada
+[B]IAC_232049700_Faca para Churrasco Tramontina Inox 4".mp4	Não foi feita a alteração solicitada
+[B]IAC_232100000_Jogo de Colher Tramontina Ipanema Branco 3 Pe‡as.mp4	Não foi feita a alteração solicitada
+[B]IAC_232102600_Garfo Trinchante Tramontina A‡o Inox Plenus.mp4	Não foi feita a alteração solicitada
+[B]IAC_232102800_Jogo de Garfos de Mesa Tramontina Inox New Kolor 3 Pe‡as.mp4	Não foi feita a alteração solicitada
+[B]IAC_232105600_Jogo de Garfos de Mesa Tramontina Inox Ipanema 12 Pe‡as.mp4	Não foi feita a alteração solicitada
+[C]IAC_227421700_Smartphone Samsung Galaxy S20 FE 256GB Cloud Navy.mp4	Não foi feita a alteração solicitada
+IAC_238945900.mp4	Não foi feita a alteração solicitada

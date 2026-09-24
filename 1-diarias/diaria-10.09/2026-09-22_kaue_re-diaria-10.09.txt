@@ -1,0 +1,91 @@
+Diária 10.09 — retorno do Kauê (colado pelo Tiago no chat em 22/09/2026)
+
+SKU	Produto	Alteração
+241180000	Tábua de Passar Roupa Dobrável Açomix Carla	Aprovado
+240843400	Bebida Mista Beats Green Mix Frutas Verdes 269ml 8 Unidades	Aprovado
+236569800	Pneu Aro 16” 255/70R16 Goodyear 111H AT 2 Direction 2	Aprovado
+241091500	Pneu Aro 17" 225/65R17 Westlake 102T SU318 H/T	Aprovado
+240466900	Carrinho de Bebê Cosco Kids Toffy 3 Rodas até 15kg	Aprovado
+240707000	Furadeira de Impacto Black+Decker 450W BED710450	Aprovado
+240196100	Whisky Ballantines Sunshine Abacaxi 700ml	Aprovado
+240558700	Base para Bebê Conforto Cosco Kids Wizz com Isofix até 13kg	Aprovado
+240687800	Cadeira de Alimentação Portátil Maxi Baby Honey 4 Níveis de Altura até 23kg	Aprovado
+240687600	Cadeira de Alimentação Portátil Maxi Baby Honey 4 Níveis de Altura até 23kg	Aprovado
+240688200	Cadeira de Alimentação Portátil Maxi Baby Honey 4 Níveis de Altura até 23kg	Aprovado
+240400300	Lavadora de Alta Pressão Wap Ousada Plus 2200 Ultra 1750 Libras 1500W	Aprovado
+240890400	Carrinho de Bebê Baby Style Runner até 15kg	Aprovado
+241224600	Panela Wok Tramontina Com Tampa Alumínio Antiaderente Starflon Max Loreto Grafite 28cm	Aprovado
+240400100	Furadeira e Parafusadeira de Impacto Wap 700W 2 Peças WF 700FE	Aprovado
+241424300	Sabão em Pó Surf Explosão de Flores Concentrado Profissional 5,6kg	Aprovado
+240413600	Bicicleta Infantil Aro 12 Verden 10508 Peppa George Azul e Verde com Rodinhas	Aprovado
+240684000	Máscara Reparação Contra Quebra Pantene Pro-V Reconstrução Molecular 270ml	Aprovado
+240744500	Smartwatch Huawei Watch GT 6 41mm Roxo 64GB Bluetooth	Aprovado
+240687900	Berço Portátil e Desmontável Maxi Baby Lune até 15kg Cinza	Aprovado
+240127000	Panela Wok Antiaderente Panelux de Alumínio Maximum Stone Verde 32cm	Aprovado
+240742100	Barra de Proteína Nutrata Grego Whey Beijinho 40g 12 Unidades	Aprovado
+236779600	Vodka Absolut Raspberri - 750 ml	Aprovado
+240351600	Jogo Quebra Pedra Dinossauro Lulie Games	Aprovado
+238840900	Vinho Branco Seco Alamos Chardonnay Argentina 750ml	Aprovado
+240205800	Boneca New Family & Me com Acessórios	Aprovado
+240238100	Boneca Baby Alive Lala Goo Goo Pequenos Goles	Aprovado
+241056400	Fralda Descartável Huggies Máxima Proteção XXXG 18 a 25kg 42 Unidades	Aprovado
+240875900	Espumante Branco Brut Freixenet Classic Cordon Negro 750ml	Aprovado
+230530400	Licor Creme Tia Maria Café 700ml	Aprovado
+181160300	Pista GBF81 Hot Wheels Mattel	Aprovado
+230948500	Vinho Branco Seco Leyda State Sauvignon Blanc	Aprovado
+181254600	Jogo Twister Hasbro	Aprovado
+236923600	Serra Circular Elétrica Wap ESC1500 1500W	Aprovado
+238061800	Kit Talher Infantil Inox Buba Zoo Verde 2 Peças	Aprovado
+238060100	Kit Talher Infantil Inox Buba Zoo Laranja 2 Peças	Aprovado
+238060900	Mordedor para Bebê Buba Zoo Buzininha Elefante	Aprovado
+238128900	Copo de Treinamento com Alças 300ml Buba Panda	Aprovado
+238126000	Copo de Treinamento com Alças 300ml Buba Elefante	Aprovado
+238133300	Bowl de Silicone Rosa Buba 15634 350ml	Aprovado
+238248800	Jogo de Xícaras de Café 85ml Hauskraft Matte 4 Peças	Aprovado
+238256500	Bowl Fibra de Bambú Verde Hauskraft FBBU010/VD 440ml	Aprovado
+238259100	Bowl Fibra de Bambú Bege Hauskraft FBBU010/BG 440ml	Aprovado
+238267500	Prato Raso Cinza de Sobremesa Redondo 20cm Hauskraft FBBU002/CZ	Aprovado
+238269200	Prato Raso Bege Redondo 27cm Hauskraft FBBU003/BG	Aprovado
+238271200	Prato Raso Azul de Sobremesa Redondo 15cm Hauskraft FBBU012/AZ	Aprovado
+238270300	Prato Raso Bege de Sobremesa Redondo 15cm Hauskraft FBBU012/BG	Aprovado
+238271800	Copo Hauskraft FBBU Cinza 300ml	Aprovado
+238278000	Pote de Vidro Hermético Hauskraft com Tampa Redondo 1L Millo	Aprovado
+238276800	Pote de Vidro Hermético Hauskraft com Tampa Redondo 1,4L Millo	Aprovado
+238277200	Pote de Vidro Hauskraf com Tampa Redondo 1,3L Max	Aprovado
+238294700	Puff Retangular Mostarda Nantes Matrix	Aprovado
+238294600	Puff Retangular Marrom Nantes Matrix	Aprovado
+238295300	Puff Retangular Bege Nantes Matrix	Aprovado
+238294900	Puff Retangular Cinza Nantes Matrix	Aprovado
+238295600	Puff Retangular Azul Nantes Matrix	Aprovado
+238309800	Frigideira Antiaderente Multiflon de Alumínio Gourmet Cinza 24cm	Aprovado
+238552400	Caldeirão Inox Tramontina Fundo Triplo 4,6L 20cm Una	Aprovado
+238823600	Caçarola Tramontina Antiaderente de Alumínio 24cm 4,9L Amêndoa Milazzo	Aprovado
+238824300	Jogo de Panelas Tramontina de Alumínio Rosa 4 Peças Linz	Aprovado
+238820900	Panela Tramontina Antiaderente de Alumínio Amêndoa 16cm 1,5L Milazzo	Aprovado
+238820300	Panela Tramontina Antiaderente de Alumínio Amêndoa 18cm 2,1L Milazzo	Aprovado
+238822700	Frigideira de Alumínio Tunis Rosa Trufado 20cm	Aprovado
+238819500	Frigideira de Alumínio Tunis Rosa Trufado 24cm	Aprovado
+238820800	Frigideira de Alumínio Tunis Rosa Trufado 28cm	Aprovado
+238822900	Caçarola Tramontina de Alumínio 24cm 4,8L Azul MediterrâneoTunis	Aprovado
+238967200	Gabinete para Banheiro 1 Gaveta Móveis Bechara Tóquio	Aprovado
+238967100	Gabinete para Banheiro 1 Gaveta Móveis Bechara Tóquio	Aprovado
+240101900	Guarda-roupa Casal 5 Gavetas 6 Portas Santos Andirá Democrata	Aprovado
+240101300	Guarda-roupa Casal 5 Gavetas 6 Portas Santos Andirá Democrata	Aprovado
+240101800	Cômoda 4 Gavetas Santos Andira Fit	Aprovado
+240101500	Cômoda 4 Gavetas Santos Andira Fit	Aprovado
+240105700	Estante para TV até 75" 2 Portas Colibri Jurerê	Aprovado
+240105100	Estante para TV até 75" 2 Portas Colibri Jurerê	Aprovado
+240105800	Estante para TV até 65" 2 Portas Colibri Belaya	Aprovado
+240106100	Estante para TV até 65" 2 Portas Colibri Belaya	Aprovado
+241317300	Liquidificador Mondial Turbo L-1400-LT 1400W 3L Preto e Inox 5477-02	00:23 – O botão de ligar do liquidificador aparece diferente do produto original: está prateado e com textura, enquanto o correto é preto e liso.
+240687300	Berço Portátil e Desmontável Maxi Baby Lune até 15kg Bege	O berço aparece com formato quadrado, porém o produto original possui formato retangular. Como as cenas incorretas foram geradas com base em imagens equivocadas que estão atualmente na página do produto, solicito considerar esta alteração como um vídeo novo, e não como uma correção pontual.
+241214000	Frigideira Antiaderente Multiflon de Alumínio com Tampa Indução Petra+ Grafite 28cm	00:08 – O cabo e a alça da tampa aparecem diferentes do modelo original.
+240889500	Berço Portátil Desmontável Baby Style Confort Azul	00:07 – Na cena, a IA adicionou um desenho de trava que não existe no produto original.
+238119400	Almofada para Carrinho de Bebê Dino Buba Verde	A locução da Lu está com um efeito metalizado, deixando a voz com aspecto de estar sendo reproduzida “dentro de uma lata”.
+Retirar as estampas que entram no final do vídeo. A forma como elas aparecem ficou pouco natural e prejudica o resultado visual
+238130500	Copo de Treinamento com Alça 300ml Buba Lemure	O produto é destinado a bebês, porém o vídeo apresenta apenas uma mulher adulta utilizando o copo, o que não representa adequadamente o público e a finalidade do produto. Sugiro utilizar as imagens do fornecedor com o bebê, tornando a demonstração mais coerente e adequada ao produto anunciado.
+238253900	Forma para Air Fryer de Silicone Antiaderente com Alças 20cm Hauskraft	00:18 – A cena gerada por IA do homem comendo o bolo ficou pouco natural e visualmente incoerente. O bolo aparenta estar muito quente para ser consumido e, além disso, o homem o morde pela parte superior, resultando em uma ação pouco realista e prejudicando a qualidade da cena.
+238266900	Prato Raso Cinza Redondo 27cm Hauskraft FBBU003/CZ	00:10 – Na cena, a pessoa pega um garfo e, em seguida, um pão aparece voando do nada, deixando a ação pouco natural e evidenciando uma inconsistência gerada pela IA.
+238820700	Jogo de Panelas Tramontina de Alumínio Preta 4 Peças Linz	A palavra “PFOA” é pronunciada de forma muito pausada, deixando evidente o aspecto artificial da locução. Ajustar a pronúncia e o ritmo para que a fala fique mais natural e fluida.
+240122000	Bicicleta Aro 29" Colli Viena Freio a Disco 21 Marchas	00:13 – Na cena, aparecem duas cintas segurando o cesto, porém esse detalhe não existe no produto original.
+240122300	Bicicleta Aro 29" Colli Viena Freio a Disco 21 Marchas	00:13 – Na cena, aparecem duas cintas segurando o cesto, porém esse detalhe não existe no produto original.

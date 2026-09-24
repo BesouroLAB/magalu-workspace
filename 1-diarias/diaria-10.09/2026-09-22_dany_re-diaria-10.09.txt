@@ -1,0 +1,113 @@
+Diária 10.09 — retorno da Dany (colado pelo Tiago no chat em 22/09/2026)
+
+Aprovados:
+SKU	Produto
+231137000	Pneu Aro 14” XBRI 205/75R14C 109/107R Brutus T/
+240347300	Boneca Bebê Realista 42cm com Acessórios
+240019300	Jogo de Panelas Panelux Antiaderente de Alumínio Grafite 8 Peças Magnific
+240019200	Cuscuzeira Panelux de Alumínio Antiaderente Magnific 2,4L 16cm
+221370700	Antitranspirante Rexona Men Antibacterial Invisible 150 ml
+237633100	Leave-in Aussie Hydro-Mania Non Stop Hydration 95ml
+235949500	Bicicleta Infantil Aro 16 Track & Bikes Dino
+231368100	Creatina Mono-hidratada Creapure em Pó 150g
+232886300	Boneca Baby Alive Hora do Suco Morena
+241354400	Jogo Monopoly Panini Prizm Copa do Mundo
+240245000	Boneca Miyo Minha Pequena Artista
+203584000	Albumina Max Titanium Mass Titanium 17500
+234978000	Frigideira Antiaderente Tramontina de Alumínio
+224121600	Fervedor Tramontina Antiaderente 1L 13,2cm Loreto
+224622000	Caçarola Hercules Inox Prata 17,5L 36cm Performance PA50-021
+234974400	Caldeirão de Alumínio Tramontina Antiaderente Chumbo 3,1L 18cm Paris
+236840700	Frigideira Antiaderente Multiflon de Alumínio com Espátula Color Amarela 20cm
+236836500	Frigideira Antiaderente Multiflon de Alumínio
+236835700	Frigideira Antiaderente Multiflon de Alumínio com Espátula Color Rosa 20cm
+238252300	Jogo de Xícaras de Café 85ml Hauskraft Matte 4 Peças
+238252200	Jogo de Xícaras de Café 85ml Hauskraft Matte 4 Peças
+238253400	Forma para Air Fryer de Silicone Antiaderente com Alças 20cm Hauskraft
+238549100	Caçarola Tramontina Inox 16cm 1,4L Una
+240249300	Hipercalórico FTW Delicious Mass em Pó 3kg Chocolate
+
+
+Em alteração:
+
+SKU	Produto	Alteração
+241125300	Amaciante Comfort Concentrado Edição Especial Bridgerton Segredos 10 1,5L	0:10 - A tampa do amaciante tá desproporcional, bem maior do que realmente é.
+238653000	Refrigerante Sukita Uva 200ml	0:00 - IA alucinou o texto
+0:06 - IA alucinou o texto
+0:09 - IA alucinou o texto
+241180200	Armário de Cozinha Compacta Itatiaia Dunas Com Nicho 7 Portas 1 Gaveta 1,80M	Precisa mostrar a parte interna. Temos fotos disponíveis.
+240881200	Caixa de Som Portátil Bright Audio DW 112 Bluetooth Amplificada Portátil 45 RMS USB	0:03 - A alça tá maior que a original
+0:09 - O gancho onde pendura a cordinha tá diferente. No original é preto, no vídeo tá em aço.
+240693300	Balcão de Cozinha Luciane MDF 2 Portas Aura Athenas	0:09- Parte interna diferente
+0:14 - A bancada tá ambientada como se fizesse parte da pia.
+238521700	Cobertura Chocolate branco Nestle Profissional Galak 1,01kg	0:01 - IA alucinou texto
+0:08 - IA alucinou texto
+0:09 - IA alucinou texto
+238772100	Pré-Treino Darkness Évora PW 300g Uva	0:00 - IA alucinou o texto
+0:03 - IA alucinou o texto
+0:07 - IA alucinou o texto
+0:09 - IA alucinou o texto
+240685600	Banheira de Bebê com Suporte Whoop Paraty Branco 23kg	0:06 - A IA colocou o nome da marca na foto debaixo
+0:14 - A IA colocou o nome da marca em ambas fotos
+0:18 - Entra uma imagem rapidamente e depois sai.
+230428100	Laptop Infantil Barbie Bilingue Musical	0:06 - O desenho da tela tá diferente
+238648900	Sapateira Organizador Multiuso Dobrável 7 Prateleiras SAP-001 Otello	Faltou régua de medidas
+240099700	Leite Condensado Nestle Semidesnatado Moça Profissional 3kg	0:00 - IA alucinou texto da embalagem
+0:03 - IA alucinou texto da embalagem
+0:07 - Embalagem tá diferente
+0:09 - Texto tá alucinado em zoom
+0:12 - IA alucinou texto da embalagem
+240351700	Jogo Adivinhe Quem Eu Sou Lulie Kids	0:02 - A caixa tá completamente diferente.
+0:04 - A IA alucinou as mãos e as cartas
+224915900	Pneu Aro 18” Pirelli 235/60R18 107V - Scorpion Verde	0:07 - Tá diferente do original
+240082100	Creme de Pentear Pantene Pro-V Miracles Biotinamina B3 Antiqueda & Nutrição 240g	0:09 - IA alucinou o texto
+237260200	Creme Dental Para Branqueamento Colgate Total 12 Whitening & Advanced Fresh 90g	0:01 - A lateral da embalagem tá duplicada.
+0:07- A lateral da embalagem tá duplicada.
+226185900	Whisky Chivas Regal Extra 13 Anos Blended	0:00 - Tem um contorno iluminado em volta da garrafa
+237956600	Whisky Jack Daniel's Tennessee Honey Americano 375ml	IA alucinou texto
+233891500	Creme Dental Colgate Total Gengiva Saudável Anticárie com Flúor 90g 3 Unidades	0:01- texto alucinado
+0:04- texto alucinado
+0:09- texto alucinado
+238424200	Travesseiro Castor Type Látex Pro Bambu	0:06 - Aqui aparece o enchimento dele, mas não temos fotos a respeito.
+240683200	Shampoo Pantene Pro-V Science Molecular Bond Repair 300ml	00:01- IA alucinou texto
+00:14- IA alucinou texto
+Vídeo sem som.
+227346300	Fralda para Piscina Descartável Pampers Splashers	0:01 - embalagem diferente
+0:09 - IA alucinou texto
+240378500	Kit Perfume Feminino Banderas Her Secret Absolu 1 Eau de Parfum de 80ml + 1 Desodorante Spray de 150ml	0:01 - IA alucinou o texto
+0:07 - IA alucinou o texto
+240170000	Perfume Victorio & Lucchino Agua Masculinas Jungla Salvaje Edición Limitada Masculino Eau de Toilette 150ml	0:07 - O perfume tem notas de toranja, mas aparece uma laranja.
+0:12 - Aparecem mexericas, mas não tem esse ingrediente no original.
+221137300	Fechadura Digital de Porta Biométrica Intelbras	0:09 - A parte onde põe o dedo tá diferente
+0:15 - Tem uma luz acendendo, mas não sabemos se realmente acende.
+221420400	Passadeira a Vapor Cadence Portátil Lisser Pro 1,5L 1500W Branco	0:10 - cabo tá diferente
+0:14 - cabo tá diferente
+086021600	Pote Redondo 4,2L Tramontina 61220/251	0:03 - O pote tá mais alto do que o original
+0:07 - O pote tá mais alto do que o original
+0:12 - O pote tá mais alto do que o original
+214592700	Cortador de Grama Elétrico Black&Decker GR1000 1200W 32cm com 3 Níveis de Corte	0:14- Tá diferente do original
+0:17 - "lâmina" tá escrito separado.
+224822200	Cama Solteiro Móveis Lanza Siena	Faltou régua de medidas
+228705000	Funko Pop! Movies Zombieland Wichita 49102	0:03 - Tá falando que o funko é do "bill murray", mas é da "wichita"
+228879200	Frigideira Wok Antiaderente Multiflon	No vídeo todo o cabo tá diferente
+228886800	Back 4 Blood para Xbox One e Xbox Series X	0:10 - Esse trecho do jogo mostra um homem atirando em um zumbi e saindo sangue. Aqui vale aquele alinhamento antigo para jogos violentos. Não podemos exibir cenas com violência explícita.
+0:15 - Texto alucinou
+0:18 - Texto alucinou
+232049000	Faca para Churrasco Tramontina Inox 4” New Color	0:05 - Aqui tá em zoom com o nome do fabricante de ponta cabeça.
+232058800	Espátula para Ovo Tramontina Ability	0:09 - Modelo diferente
+235721300	Tampa de Panela de Vidro e Inox Multiflon 22cm	0:15 - Não temos foto para conferir se o puxador sai dessa forma.
+236835900	Frigideira Antiaderente Multiflon de Alumínio Color Rosa 24cm com Espátula	0:10 - Na foto de cima, o parafuso tá diferente.
+0:15 - Tá sem parafuso
+236836200	Frigideira Antiaderente Multiflon de Alumínio Color Azul 24cm com Espátula	0:05 - Tem parafuso só preto. No original tem 2 em inox
+0:15 - Parafuso diferente
+0:19 - Parafuso diferente
+236862500	Cômoda 5 Gavetas 2 Portas Araplac Malu	Faltou régua de medidas
+238413300	Poltrona Reclinável 3 Posições Matrix Pulse	0:16 - No original, o acento é reto.
+238413600	Poltrona Reclinável Moderna 2 Posições Matrix Caravelli	00:02 a 00:07 - fica a mesma imagem estática
+faltou colocar as cores dos replicados.
+238433500	Painel para TV até 75" Artely Nevada 1 Prateleira	0:18 - Modelo diferente do original.
+238437200	Painel para TV até 75" Artely Presence 1 Prateleira	Vídeo todo foi feito com modelo diferente do original
+238491400	Armário de Cozinha Luciane Suíça 2 Portas 120x60,6cm	Precisa mostrar a parte interna. Temos fotos disponíveis.
+234767300	Refil de Tinta Epson EcoTank T544120-2P	0:13 - a impressora tá diferente do modelo compatível
+0:15 - a impressora tá diferente do modelo compatível
+0:23 - aqui tbm seria ideal mostrar uma impressora compatível

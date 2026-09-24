@@ -1,0 +1,61 @@
+Diária 17.09 — retorno do Kauê (colado pelo Tiago no chat em 22/09/2026)
+
+SKU	Produto	Alteração
+241383600	Colchão Queen Americanflex de Espuma D45 28x158x198cm Clinoflex Bambu	O colchão apresentado está diferente do produto anunciado, dando a impressão de que foi utilizado outro modelo para produzir o vídeo.
+240706500	Plaina Elétrica Black+Decker 710W BEW712	00:08 e 00:15 – O bocal de saída da serragem fica do lado esquerdo no produto original, mas aparece do lado direito no vídeo.
+O homem aparece com duas mãos esquerdas
+240040000	Armário Office Multiuso 2 Portas 7 Prateleiras Aramóveis Florença	00:17 – Na cena que mostra a parte interna do armário, aparece apenas uma porta, porém o produto possui duas.
+240554500	Fechadura Digital ELG SCFD100CZ com Senha de Embutir	00:10 – Na cena em que é apresentada a parte traseira da fechadura, aparecem vários botões que não existem no produto original.
+238859400	Cabeceira Solteiro Caemmun Lucila Freijo e Off White	Em várias cenas – A cabeceira aparece com a parte ripada e a mesa lateral posicionada do lado esquerdo, porém, no produto original, fica do lado direito.
+232059800	Espátula Inox Tramontina Utilità	00:15 – O cabo da espátula aparece menor do que o tamanho real do produto.
+232067700	Faca para Frutas e Legumes Tramontina Inox 3”	Nas duas últimas cenas – A faca original possui uma leve curvatura, porém aparece reta nas cenas finais.
+238925700	Balcão de Cozinha Nesher 100% MDF 2 Portas 1 Gaveta Simone Mendes	Aprovado
+240996000	LEGO Duplo Casa do Mickey com Minnie e Pluto	Aprovado
+240995700	LEGO Botanicals Margaridas 11508 133 Peças	Aprovado
+124346700	Colchão King Castor Mola Ensacadas/Pocket	Aprovado
+240109700	LEGO Speed Champions Carro de Corrida Oracle"	Aprovado
+238216700	LEGO Technic Mercedes-AMG F1 W14 E Performance	Aprovado
+240105400	Painel para TV até 60" Colibri Jurerê	Aprovado
+240890600	Cadeirinha para Auto Baby Style Turbo de 0 até 36kg	Aprovado
+240214500	Triciclo Infantil de Pedal Mototico Bandeirante	Aprovado
+240132100	Berço Mini Cama Branco Moveis Peroba Ninho	Aprovado
+241278700	Colchão Solteiro Padrão Americanflex de Espuma 24x88x188cm Clinoflex Bambu	Aprovado
+238828900	Arara de Roupas de Madeira Preto Multivisão Urbana	Aprovado
+240902400	Caixa de Som Polyvox Boombox XB-2 Bluetooth Amplificada Portátil 140W USB	Aprovado
+240998300	LEGO Harry Potter Caldeirão: Sala Secreta de	Aprovado
+238829900	Estante Multiuso 5 Prateleiras Multivisão Stronger	Aprovado
+240883400	Esmerilhadeira Nell Angular 720W 4 1/2" (115mm) com Acessórios 4 Peças MB-TO033	Aprovado
+240348900	Tambor de Brinquedo ML078 Lulie Baby	Aprovado
+240693600	Mop Fit Bettanin Noviça Sekito Tiffany	Aprovado
+240193600	Porta-Mantimentos de Plástico Hermético Retangular 150ml Ou Block	Aprovado
+240348100	Kit de Ferramentas de Brinquedo Tool Set 18 Peças	Aprovado
+240789300	Assento de Elevação Cosco Kids Moon Fix 15 a 36kg Preto	Aprovado
+241218500	Garrafa Térmica de Plástico 1L Tramontina Exata Vanilla	Aprovado
+241281200	Colchão Queen Americanflex de Molas Ensacadas 34x158x198cm Touch Amx	Aprovado
+238829700	Estante Multiuso 3 Prateleiras Multivisão Stronger	Aprovado
+224893300	Elástico de Cabelo 4 Unidades Lanossi Hair Ties Mermaid	Aprovado
+225697100	Espremedor de Alho Tramontina	Aprovado
+225999500	Faca para Carne Tramontina Inox 8” Polywoo	Aprovado
+226594500	Espremedor de Frutas com Ralador	Aprovado
+226931500	Centrifuga de Salada Ghidini Vera	Aprovado
+227696800	Papel de Parede Infantil Azul Balões Vinílico - Evolux 53x1000cm	Aprovado
+228879200	Frigideira Wok Antiaderente Multiflon	Aprovado
+228879300	Frigideira Wok Antiaderente Multiflon	Aprovado
+231656500	Funko Pop! Ultraman Kanegon	Aprovado
+231656800	Funko Pop! Marvel Zombie Doctor Doom	Aprovado
+231657000	Funko Pop! Marvel Zombie MODOK	Aprovado
+232048900	Faca para Churrasco Tramontina Inox 4” New Color	Aprovado
+232049200	Faca para Churrasco Tramontina Inox 4” New Color	Aprovado
+232049700	Faca para Churrasco Tramontina Inox 4”	Aprovado
+232056800	Boleador 2,9cm Tramontina Utilitá Branco	Aprovado
+232056200	Boleador 2,9cm Tramontina Utilitá Preto	Aprovado
+232058500	Espátula para Bolo Tramontina Ability	Aprovado
+232059000	Espátula para Ovo Tramontina Ability	Aprovado
+232059300	Espátula para Pizza Inox Tramontina Utilità	Aprovado
+232059100	Espátula para Pizza Inox Tramontina Utilità	Aprovado
+232059700	Espátula Inox Tramontina Utilità	Aprovado
+232060000	Espátula para Manteiga Inox Tramontina	Aprovado
+232059900	Espátula para Manteiga Inox Tramontina	Aprovado
+232067900	Faca para Legumes Tramontina Inox 3”	Aprovado
+232068400	Faca para Pão Tramontina Inox 7” Plenus	Aprovado
+240244600	Gerador de Energia a Gasolina Tramontina Monofásico 4T Partida Manual 3,5Hp GGT2000MI	Aprovado

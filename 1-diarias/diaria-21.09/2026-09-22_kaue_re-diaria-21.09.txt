@@ -1,0 +1,34 @@
+Diária 21.09 — retorno do Kauê (colado pelo Tiago no chat em 22/09/2026)
+
+SKU	Produto	Alteração
+240891200	Berço Portátil Desmontável Baby Style Confort Cinza	00:06 e 00:21 – As rodas do berço aparecem diferentes do modelo original.
+00:11 – O berço aparece menor do que seu tamanho real e sem as rodas.
+240991200	Assadeira de Vidro Retangular Marinex Seletta 23,2x37,1cm	00:15 – As alças aparecem fechadas e com a logo da marca, porém, no produto original, elas são vazadas e não possuem esse detalhe.
+241278900	Colchão Viúva Americanflex de Espuma D33 24x128x188cm Clinoflex Bambu	00:13 e 00:17 – A IA alterou as características do colchão, fazendo com que ele apareça diferente do modelo original
+240014700	Sofá-cama 3 Lugares Casal Reclinável Facto e Linho Matrix Esther	00:06 e 00:18 – O sofá aparece menor do que seu tamanho real nas cenas.
+238838700	Sofá 3 Lugares Suede Adágio Linoforte	00:05 – Na cena em que são apresentadas as medidas, apenas a régua do comprimeto está representada corretamente, enquanto os demais números aparecem “soltos”.
+238955800	LEGO A Batalha de Lava no Nether 21266	A IA alterou algumas características do produto e também aumentou sua proporção, fazendo com que ele apareça maior do que realmente é.
+230560100	Cortina Lartex Voil Gelo End 180x280cm	00:14 – Na cena em que é mostrada a parte superior da cortina, a costura aparece diferente do produto original, fazendo parecer que possui um acabamento mais firme do que realmente é.
+238432900	Mesa de Centro de MDF Orgânica Artely	É informado que a mesa possui 4 nichos, porém o produto não possui nichos.
+240054300	Sofá 4 Lugares Suede Vivaldi Linoforte	00:04 – O encosto e o assento aparecem divididos em duas partes, porém, no produto original, ambos são inteiriços.
+241101100	Ferro de Passar Roupa a Vapor Arno Ultragliss Protect FUP1 Turquesa 1830009392	Aprovado
+240890800	Cadeirinha para Auto Baby Style Turbo de 0 até 36kg	Aprovado
+240255700	LEGO Art Vincent van Gogh: Girassóis	Aprovado
+240997300	LEGO Botanicals Buquê de Tulipas 11501 576 Peças	Aprovado
+240347100	Carrinho de Controle Remoto Speed Stunt Car	Aprovado
+241000500	LEGO Minecraft Masmorra dos Zumbis 21587	Aprovado
+241280800	Colchão Super King Americanflex de Molas Ensacadas 34x193x203cm Seis Estrelas	Aprovado
+240192200	Lixeira para Cozinha com Pedal Basculante 12L Ou Trium	Aprovado
+240891000	Berço Portátil Desmontável Baby Style Estrelinha Rosa	Aprovado
+240889300	Berço Portátil Desmontável Baby Style Joly com Mosquiteiro Azul	Aprovado
+240995200	LEGO City Hot Rod 60485 81 Peças	Aprovado
+240554400	Fechadura Digital ELG SCFD100PR com Senha de Embutir	Aprovado
+240997100	LEGO City Food Truck de Batatas Fritas 60488	Aprovado
+240687700	Assento de Elevação Replay Kids Fix Fit até 36kg	Aprovado
+210489500	Cafeteira Inox Bialetti	Aprovado
+238957800	LEGO Trem de Aventura Interativo 10427	Aprovado
+237154000	LEGO Technic Bugatti Bolide 905 Peças	Aprovado
+234980100	Frigideira Tramontina de Ferro Profissional Preta 24cm	Aprovado
+234982300	Frigideira Antiaderente Tramontina de Alumínio Paris Preta 28cm com Espátula	Aprovado
+238445300	Mesa Lateral Trama Artely	Aprovado
+240184400	Caixa de Som Amplificada Candide Disney Stitch com Microfone	Aprovado
