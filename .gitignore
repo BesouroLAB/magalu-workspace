@@ -21,3 +21,7 @@ drive-download-20260915T142828Z-1-001/
 # OS/editor
 .DS_Store
 Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
